@@ -2,6 +2,16 @@
 
 A portfolio project that turns a deliberately messy 10-sheet hospital workbook into a clean data model and four dashboards.
 
+## Dashboards
+
+![Patient Demographics and Risk](dashboard1.png)
+
+![Hospital Operations and Admissions](dashboard2.png)
+
+![Disease and Public Health Surveillance](dashboard3.png)
+
+![Financial and Quality Performance](dashboard4.png)
+
 ## The problem
 The source data had duplicates, mixed date formats, placeholders like N/A, numbers stored as text, broken IDs and impossible values. Nothing could be trusted until it was cleaned.
 
