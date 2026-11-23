@@ -4,13 +4,13 @@ A portfolio project that turns a deliberately messy 10-sheet hospital workbook i
 
 ## Dashboards
 
-![Patient Demographics and Risk](dashboard1.png)
+![Patient Demographics and Risk](dashboard1.PNG)
 
-![Hospital Operations and Admissions](dashboard2.png)
+![Hospital Operations and Admissions](dashboard2.PNG)
 
-![Disease and Public Health Surveillance](dashboard3.png)
+![Disease and Public Health Surveillance](dashboard3.PNG)
 
-![Financial and Quality Performance](dashboard4.png)
+![Financial and Quality Performance](dashboard4.PNG)
 
 ## The problem
 The source data had duplicates, mixed date formats, placeholders like N/A, numbers stored as text, broken IDs and impossible values. Nothing could be trusted until it was cleaned.
